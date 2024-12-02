@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^8.1.4"
+    "@sendgrid/mail": "^8.1.4",
+    "aws-sdk": "^2.1361.0"
   }
 }
